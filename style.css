@@ -1,0 +1,81 @@
+    body{
+      font-family:Arial;
+      background-color: white;
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    *{
+      box-sizing: border-box;
+    }
+    form{
+      width:400px;
+      border:none;
+      padding:25px;
+      background: white;
+      border-radius: 10px;
+      margin:0px;
+    }
+    h3{
+      text-align: center;
+      font-family: Arial;
+      margin-bottom: 40px;
+    }
+    p{
+      text-align: center;
+      font-family: Arial;
+      margin-bottom: 25px;
+      font-size: small;
+    }
+    input{
+      display:block;
+      border:0.5px solid;
+      width:100%;
+      padding:10px;
+      margin:0px;
+      border-radius: 2.5px;
+    }
+    label{
+      display:block;
+      border:none;
+      width : 95%;
+      padding:5px;
+      margin :0px;
+      font-size: small;
+    }
+    .forgot-passwrd{
+      display:block;
+      border:none;
+      width : 100%;
+      padding:10px;
+      margin :0px;
+      font-size: small;
+      text-align: right;
+    }
+    button{
+      float: right;
+      background-color: rgb(10, 103, 179);
+      border:0px solid;
+      width:100%;
+      padding:10px;
+      margin:0px;
+      border-radius: 2.5px;
+      color:white;
+    }
+    .btn{
+      float: right;
+      background-color: rgb(10, 103, 179);
+      border:0px solid;
+      width:100%;
+      padding:10px;
+      margin:25px auto;
+      border-radius: 2.5px;
+      color:white;
+    }
+    .Terms{
+      text-align: center;
+      font-family: Arial;
+      margin-bottom: 5px;
+      font-size: x-small;
+    }
